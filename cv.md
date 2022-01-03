@@ -6,6 +6,7 @@ Hello, my name is Aleks
 =======
 Hello, my name is Aleks
 ***
-**my email** : joke@gmail.com
+**my email:** joke@gmail.com
+**git:**typik1
 
 >>>>>>> main
